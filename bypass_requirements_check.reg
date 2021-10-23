@@ -1,0 +1,9 @@
+HKEY_LOCAL_MACHINE\SYSTEM\Setup\LabConfig\BypassRAMCheck
+
+HKEY_LOCAL_MACHINE\SYSTEM\Setup\LabConfig\BypassTPMCheck
+
+HKEY_LOCAL_MACHINE\SYSTEM\Setup\LabConfig\BypassSecureBootCheck
+
+HKEY_LOCAL_MACHINE\SYSTEM\Setup\LabConfig\BypassCPUCheck
+
+HKEY_LOCAL_MACHINE\SYSTEM\Setup\LabConfig\BypassStorageCheck
